@@ -18,8 +18,6 @@ You can watch the site here
 - Deploy the App LIVE on Firebase
 - Store orders for logged in user
 - Responsive Design
-- Deploy the app live on Firebase
-
 ## Author
 
-Özge Coşkun Gürsucu (codermother)
+bhargavan
